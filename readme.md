@@ -6,9 +6,6 @@
 [![github actions][github-actions-badge]][github-actions]
 [![coverage][codecov-badge]][codecov]
 [![typescript][typescript-badge]][typescript]
-[![contributing][contributing-badge]][contributing]
-[![contributors][contributors-badge]][contributors]
-[![discord][discord-badge]][discord]
 
 _Starter for `node` libraries._
 
